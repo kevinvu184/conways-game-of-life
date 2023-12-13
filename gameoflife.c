@@ -3,9 +3,9 @@
 void print(int x, int y, char b[y][x]);
 
 int main(void) {
-  int x = 11;
-  int y = 18;
-  int generation = 15;
+  int x = 16;
+  int y = 16;
+  int generation = 53;
 
   char board[y][x];
   for (int i = 0; i < y; ++i) {
